@@ -1,0 +1,29 @@
+{
+  "name": "manishv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "a",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunixxpatel/hihoneytest.git"
+  },
+  "keywords": [
+    "hihoney"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunixxpatel/hihoneytest/issues"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "homepage": "https://github.com/sunixxpatel/hihoneytest#readme"
+}
